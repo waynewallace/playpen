@@ -1,3 +1,0 @@
-(defun func hello()
-(
-)
